@@ -1,0 +1,42 @@
+Indique o resultado da avaliação de cada expressão lógica abaixo, respondendo True ou False.
+Considere que foram executadas anteriormente as seguintes atribuições: a = True, b = False e c =
+True.
+
+a) a and a
+R: True
+
+b) b and b
+R: False
+
+c) not c
+R: False
+
+d) not b
+R: True
+
+e) not a
+R: False
+
+f) a and b
+R: False
+
+g) b and c
+R: False
+
+h) a or c
+R: True
+
+i) b or c
+R: True
+
+j) c or a
+R: True
+
+k) c or b
+R: True
+
+l) c or c
+R: True
+
+m) b or b
+R: False

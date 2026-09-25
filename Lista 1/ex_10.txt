@@ -1,0 +1,9 @@
+Escreva uma expressão lógica que será utilizada para decidir se um aluno foi ou não aprovado.
+Para ser aprovado, todas as médias do aluno devem ser maiores que 7. Considere que o aluno cursa
+apenas três disciplinas, e que a nota de cada uma está armazenada nas seguintes variáveis:
+disciplina1, disciplina2 e disciplina3.
+
+if (disciplina1 > 7) and (disciplina2 > 7) and (disciplina3 > 7):
+    print('Aprovado')
+else:
+    print('Reprovado')

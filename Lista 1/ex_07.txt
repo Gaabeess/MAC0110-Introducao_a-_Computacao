@@ -1,0 +1,35 @@
+Indique o resultado da avaliação de cada expressão relacional abaixo, respondendo True ou False.
+Considere que foram executadas anteriormente as seguintes atribuições: a = 4, b = 10, c = 5.0, d = 1
+e f = 5.
+a) a == c
+R: False
+
+b) a < b
+R: True
+
+c) d > b
+R: False
+
+d) c != f
+R: False
+
+e) a == b
+R: False
+
+f) c < d
+R: False
+
+g) b > a
+R: True
+
+h) c >= f
+R: True
+
+i) f >= c
+R: True
+
+j) c <= c
+R: True
+
+k) c <= f
+R: True
