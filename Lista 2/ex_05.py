@@ -1,11 +1,12 @@
 A = []
 
+# Recebe os valores e inclui no vetor
 for i in range(10):
     num = int(input('A[%d]: ' % i))
     A.append(num)
 
+# Faz a contagem dos pares e imprime na tela
 par = 0
-
 for j in A:
     if j % 2 == 0:
         par += 1
