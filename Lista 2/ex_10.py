@@ -1,6 +1,6 @@
 Notas = []
 
-# Receb as notas e adiciona no Vetor
+# Recebe as notas e adiciona no Vetor
 for i in range(15):
     num = float(input('A[%d]: ' % i))
     Notas.append(num)
