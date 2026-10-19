@@ -8,7 +8,6 @@ for i in range(10):
     while num < 0 or num > 50:
         print('Número inválido. Digite um número entre 0 e 50.')
         num = int(input('A[%d]: ' %  i))
-
     A.append(num)
 
 # verifica os números ímpares e os adiciona no vetor impares
